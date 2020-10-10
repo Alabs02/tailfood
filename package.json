@@ -1,0 +1,17 @@
+{
+  "name": "tailfood",
+  "version": "1.0.0",
+  "description": "A responsive restaurant UI built with tailwind css",
+  "main": "index.js",
+  "repository": "https://github.com/Alabs02/tailfood.git",
+  "author": "Alabura Usman <alabson.inc@gmail.com>",
+  "license": "ISC",
+
+  "scripts": {
+    "build": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  
+  "dependencies": {
+    "tailwindcss": "^1.8.13"
+  }
+}
