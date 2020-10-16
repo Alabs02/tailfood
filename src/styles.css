@@ -25,3 +25,7 @@
     @apply border-r-4 border-primary
 }
 
+body {
+    overflow-x: hidden !important;
+}
+
